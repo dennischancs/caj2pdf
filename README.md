@@ -26,6 +26,10 @@
 - [PyPDF2](https://github.com/mstamy2/PyPDF2)
 - [mutool](https://mupdf.com/index.html)
 
+> sudo pip3 install pypdf2
+> sudo apt install mupdf-tools
+
+
 ### 用法
 
 ```
