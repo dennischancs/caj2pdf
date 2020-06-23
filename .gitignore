@@ -10,7 +10,7 @@
 *.tmp
 *.pdf
 cajs/
-mutool.exe
+# mutool.exe
 
 ## File-based project format:
 *.iws
